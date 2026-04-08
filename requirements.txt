@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+TgCrypto
+pytgcalls==4.0.0
+yt-dlp
+aiohttp
